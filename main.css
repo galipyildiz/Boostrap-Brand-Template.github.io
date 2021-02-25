@@ -1,0 +1,41 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+.navim{
+    color:white;
+    padding: 15px 25px;
+}
+.navim:hover{
+    background: rgb(204,204,204);
+    color: black;
+}
+.aramam{
+    color: white;
+    padding: 15px 25px;
+}
+.aramam:hover{
+    background-color: rgb(211, 50, 50);
+    color: white;
+}
+.son{
+    position: absolute;
+    right: 0px;
+}
+.nav{
+    background-color: black;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Segoe UI', sans-serif;
+}
+.sticky{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+.son2{
+    position: absolute;
+    right: 20px;
+}
+.tickets:hover{
+    filter: brightness(50%);
+}
